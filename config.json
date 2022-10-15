@@ -1,19 +1,19 @@
 {
-  "ownerNumber": ["628978378100@s.whatsapp.net"], 
-  "ownerName": ["Tsuyuzaki"], 
-  "botName": "Misaki MD", 
-  "youtubeOwner": "https://youtube.com/channel/UCcI5hJoUd29I_OosaOB_GQw", 
+  "ownerNumber": ["6288296172396@s.whatsapp.net"], 
+  "ownerName": ["Fizzx"], 
+  "botName": "Cheems-Bot", 
+  "youtubeOwner": "https://youtube.com/channel/UCmaMke2niQa8B_K7_pbAXbg", 
   "web": "https://lolhuman.xyz/", 
   "donasiQris": "https://i.ibb.co/CVMrYwV/Qris-Tsuyuzaki.jpg",
-  "donasiPulsa": "0895638102488", 
-  "footer": "© Tsuyuzakiメ", 
-  "fake": "© Create Misaki MD", 
+  "donasiPulsa": "088294951448", 
+  "footer": "© Fizzxメ", 
+  "fake": "© Create Cheems Bot", 
   "sessionName": "misaki",
   "pathimg": "./media/misaki.jpg",
   "gamewaktu": 90,
   "limitCount": 30,
   "gcount": {
 	"prem": 99999,
-	"user": 20
+	"user": 30
   }
 }
